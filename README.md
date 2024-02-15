@@ -1,2 +1,0 @@
-# Probabilidad
-Practicas de probabilidad
